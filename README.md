@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArhamImranQureshi
 - 👀 I’m interested in Coding Front-end Development, Gaming 
-- 🌱 I’m currently learning Bootstrap, React, Freelancing.
+- 🌱 I’m currently learning MERN STACK Development, React, Freelancing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - Email: arhamimranqureshi@gmail.com
